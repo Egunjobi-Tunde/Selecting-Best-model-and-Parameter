@@ -1,6 +1,6 @@
 # Selecting-Best-model-and-Parameter.
 ## The main Purpose of this project is to select best model.
-### Models have been built for this data. ( Check Telocom Churn Data)
+### Analysis and Model building has been done on the data earlier(check Machine Learning Tutorial)
 ## Uses of Cross validation Score and GridSearchCv
 ## What is the purpose of cross-validation in machine learning?
 Cross-validation is a technique for evaluating ML models by training several ML models on subsets of the available input data and evaluating them on the complementary subset of the data.
