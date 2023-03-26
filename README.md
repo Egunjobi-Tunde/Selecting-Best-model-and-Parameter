@@ -1,4 +1,4 @@
-## Selecting-Best-model-and-Parameter.
+## Selecting the Best-model and Parameter.
 #### The main Purpose of this project is to select best model.
 Analysis and Model building has been done on the data earlier(check Machine Learning Tutorial)
 
